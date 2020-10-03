@@ -1,4 +1,6 @@
-# css snippets
+# snippets
+
+## css
 
 comment out
 ```
@@ -18,14 +20,14 @@ xxxxx
 ```
 
 
-# html snippets
+## html
 
 comment out
 ```
 <!--xxxxx-->
 ```
 
-# javascript snippets
+## javascript
 
 comment out
 ```
@@ -52,5 +54,5 @@ get current time in unix (eboch) time
 Math.round(new Date().getTime() / 1000);
 ```
 
+## jquery
 
-# jquery snippets
