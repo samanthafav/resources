@@ -1,9 +1,5 @@
 # snippets
-[css](snippets.md#css)
-[html](snippets.md#html)
-[javascript](snippets.md#javascript)
-[markdown](snippets.md#markdown)
-[regex](snippets.md#regex)
+[css](snippets.md#css) ∙ [html](snippets.md#html) ∙ [javascript](snippets.md#javascript) ∙ [markdown](snippets.md#markdown) ∙ [regex](snippets.md#regex)
 
 ## css
 
