@@ -9,7 +9,8 @@
 * markdown - basic syntax [[link](https://www.markdownguide.org/basic-syntax/)]
 
 ## javascript
-* everything you need to know about Date in Javascript [[link](https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/)]
+* everything you need to know about Date in js [[link](https://css-tricks.com/everything-you-need-to-know-about-date-in-javascript/)]
+* all valid date formats for Date in js [[link](https://flaviocopes.com/javascript-dates/)]
 
 ## shortcuts + ios automation
 * list of apps that support x-callback-url [[link](http://x-callback-url.com/apps/)]
