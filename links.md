@@ -17,3 +17,4 @@
 
 ## regex
 * favorite cheatsheet [[link](https://www.rexegg.com/regex-quickstart.html)]
+* methods of RegExp and String [[link](https://javascript.info/regexp-methods)]
