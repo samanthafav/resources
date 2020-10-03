@@ -14,3 +14,6 @@
 ## shortcuts + ios automation
 * list of apps that support x-callback-url [[link](http://x-callback-url.com/apps/)]
 * scriptable app script documentation [[link](https://docs.scriptable.app/script/)]
+
+## regex
+* favorite cheatsheet [[link](https://www.rexegg.com/regex-quickstart.html)]
