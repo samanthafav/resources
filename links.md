@@ -18,3 +18,4 @@
 ## regex
 * favorite cheatsheet [[link](https://www.rexegg.com/regex-quickstart.html)]
 * methods of RegExp and String [[link](https://javascript.info/regexp-methods)]
+* online regex tester [[link](https://regex101.com)]
