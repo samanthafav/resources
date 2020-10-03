@@ -1,7 +1,9 @@
-
-
 # snippets
+[css](snippets.md#css)
 [html](snippets.md#html)
+[javascript](snippets.md#javascript)
+[markdown](snippets.md#markdown)
+[regex](snippets.md#regex)
 
 ## css
 
@@ -56,6 +58,6 @@ get current time in unix (eboch) time
 ```
 Math.round(new Date().getTime() / 1000);
 ```
+## markdown
 
-## jquery
-
+## regex
