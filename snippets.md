@@ -1,8 +1,9 @@
 # css snippets
 
 make container width autosize to width of content
-
-* ```display: inline-block;```
+```
+display: inline-block;
+```
 
 define style for containers with specified id
 ```
